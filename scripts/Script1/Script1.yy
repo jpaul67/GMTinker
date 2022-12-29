@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "scr_do_stuff",
+  "name": "Script1",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
