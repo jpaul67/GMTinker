@@ -3,8 +3,18 @@
   "resourceVersion": "1.6",
   "name": "GMTinker",
   "resources": [
+    {"id":{"name":"rMap1","path":"rooms/rMap1/rMap1.yy",},"order":0,},
+    {"id":{"name":"sprKnightLeft","path":"sprites/sprKnightLeft/sprKnightLeft.yy",},"order":0,},
+    {"id":{"name":"objKnight","path":"objects/objKnight/objKnight.yy",},"order":0,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"SPR_Swamp_Day","path":"sprites/SPR_Swamp_Day/SPR_Swamp_Day.yy",},"order":1,},
+    {"id":{"name":"sprKnightDown","path":"sprites/sprKnightDown/sprKnightDown.yy",},"order":3,},
+    {"id":{"name":"sprKnightRight","path":"sprites/sprKnightRight/sprKnightRight.yy",},"order":2,},
+    {"id":{"name":"sprKnigh","path":"sprites/sprKnigh/sprKnigh.yy",},"order":1,},
+    {"id":{"name":"tsOuter","path":"tilesets/tsOuter/tsOuter.yy",},"order":2,},
+    {"id":{"name":"tsSwamp","path":"tilesets/tsSwamp/tsSwamp.yy",},"order":3,},
+    {"id":{"name":"sprKnightUp","path":"sprites/sprKnightUp/sprKnightUp.yy",},"order":4,},
+    {"id":{"name":"SPR_OuterTileset","path":"sprites/SPR_OuterTileset/SPR_OuterTileset.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Windows","path":"options/windows/options_windows.yy",},
@@ -18,7 +28,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rMap1","path":"rooms/rMap1/rMap1.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
